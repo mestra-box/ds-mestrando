@@ -1,5 +1,5 @@
 {
-  "name": "@mestra/ds-mestrando",
+  "name": "@mestra-box/ds-mestrando",
   "version": "1.0.0",
   "description": "",
   "exports": {
@@ -22,5 +22,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mestrando/ds-mestrando.git"
+  },
+  "publishConfig": {
+    "@mestra-box:registry": "https://npm.pkg.github.com"
   }
 }
