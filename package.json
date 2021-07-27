@@ -7,6 +7,7 @@
     "./design-tokens": "./design-tokens/build/css/variables.scss"
   },
   "scripts": {
+    "build": "npm run build:tokens",
     "build:tokens": "style-dictionary build -c ./design-tokens/config.json"
   },
   "keywords": [],
