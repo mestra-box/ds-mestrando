@@ -12,16 +12,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/mestrando/ds-mestrando#readme",
+  "homepage": "https://github.com/mestra-box/ds-mestrando#readme",
   "devDependencies": {
     "style-dictionary": "^3.0.1"
   },
   "bugs": {
-    "url": "https://github.com/mestrando/ds-mestrando/issues"
+    "url": "https://github.com/mestra-box/ds-mestrando/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mestrando/ds-mestrando.git"
+    "url": "git+https://github.com/mestra-box/ds-mestrando.git"
   },
   "publishConfig": {
     "@mestra-box:registry": "https://npm.pkg.github.com"
