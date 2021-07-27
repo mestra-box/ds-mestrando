@@ -1,0 +1,20 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "light": { "value": "{color.base.green.light.value}" },
+        "base": { "value": "{color.base.green.medium.value}" },
+        "dark": { "value": "{color.base.green.dark.value}" }
+      },
+
+      "secondary": {
+        "base": { "value": "{color.base.gray.light.value}" },
+        "dark": { "value": "{color.base.gray.medium-dark.value}" }
+      },
+
+      "disabled": {
+        "base": { "value": "{color.base.gray.dark.value}" }
+      }
+    }
+  }
+}

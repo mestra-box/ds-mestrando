@@ -1,0 +1,12 @@
+{
+  "size": {
+    "padding": {
+      "breath": { "value": "8vw" },
+      "large": { "value": "55px" },
+
+      "button": {
+        "horizontal": { "value": "38px" }
+      }
+    }
+  }
+}

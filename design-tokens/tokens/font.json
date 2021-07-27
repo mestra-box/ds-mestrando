@@ -1,0 +1,13 @@
+{
+  "font": {
+    "family": {
+      "heading": { "value": "Lato, sans-serif" },
+      "body": { "value": "Lato, sans-serif" }
+    },
+
+    "weight": {
+      "heading": { "value": "900" },
+      "body": { "value": "400" }
+    }
+  }
+}

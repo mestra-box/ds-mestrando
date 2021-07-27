@@ -1,0 +1,19 @@
+{
+  "size": {
+    "border": {
+      "width": {
+        "base": { "value": "1px" }
+      },
+
+      "radius": {
+        "base": { "value": "5px" },
+        "medium": { "value": "30px" },
+        "large": { "value": "40px" },
+
+        "button": {
+          "basic": { "value": "{size.border.radius.base.value}" }
+        }
+      }
+    }
+  }
+}

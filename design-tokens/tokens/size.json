@@ -1,0 +1,22 @@
+{
+  "size": {
+    "height": {
+      "button": {
+        "basic": { "value": "45px" },
+        "creep": { "value": "40px" }
+      }
+    },
+
+    "min-width": {
+      "button": {
+        "basic": { "value": "140px" }
+      }
+    },
+
+    "width": {
+      "sidebar": {
+        "value": "235px"
+      }
+    }
+  }
+}

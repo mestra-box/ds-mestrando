@@ -1,0 +1,109 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 26 Jul 2021 20:02:05 GMT
+ */
+
+:root {
+  --size-padding-button-horizontal: 38rem;
+  --size-padding-large: 55rem;
+  --size-padding-breath: 8rem;
+  --size-margin-vertical-large: 60rem;
+  --size-margin-vertical-base: 34rem;
+  --size-margin-vertical-small: 12rem;
+  --size-margin-vertical-xsmall: 8rem;
+  --size-margin-horizontal-large: 24rem;
+  --size-margin-horizontal-small: 8rem;
+  --size-margin-horizontal-base: 16rem;
+  --size-margin-icon: 8rem;
+  --size-margin-large: 60rem;
+  --size-margin-base: 34rem;
+  --size-icon-button-large: 45rem;
+  --size-icon-button-base: 38rem;
+  --size-icon-base: 24rem;
+  --size-font-button-tight: 13rem;
+  --size-font-heading-h3: 1.625rem;
+  --size-font-heading-h2: 1.875rem;
+  --size-font-leading-loose: 1rem;
+  --size-font-leading-mid: 1.7rem;
+  --size-font-leading-tight: 1.2rem;
+  --size-font-large: 2.5rem; /* the large size of the font */
+  --size-font-medium-max: 1.125rem;
+  --size-font-medium-scale: 1.5rem;
+  --size-font-medium-min: 1.056rem;
+  --size-font-small: 0.875rem; /* the small size of the font */
+  --size-font-xsmall: 0.75rem; /* the small size of the font */
+  --size-border-radius-large: 40rem;
+  --size-border-radius-medium: 30rem;
+  --size-border-radius-base: 5rem;
+  --size-border-width-base: 1rem;
+  --size-width-sidebar: 235rem;
+  --size-min-width-button-basic: 140rem;
+  --size-height-button-creep: 40rem;
+  --size-height-button-basic: 45rem;
+  --font-weight-body: 400;
+  --font-weight-heading: 900;
+  --font-family-body: Lato, sans-serif;
+  --font-family-heading: Lato, sans-serif;
+  --color-base-red-medium: #eb5757;
+  --color-base-gray-dark: #666666;
+  --color-base-gray-medium-dark: #c7c7c7;
+  --color-base-gray-medium: #bfbfbf;
+  --color-base-gray-light: #e0e0e0;
+  --color-base-black-dark: #342f2f;
+  --color-base-black-medium: #342f2f;
+  --color-base-white: #ffffff;
+  --color-base-green-dark: #9db620;
+  --color-base-green-medium: #b3ce25;
+  --color-base-green-light: #bfdb33;
+  --color-background-overlay-dark: rgba(0, 0, 0, 0.3);
+  --color-background-overlay-light: rgba(255, 255, 255, 0.8);
+  --size-font-heading-diary: var(--size-font-heading-h2);
+  --size-font-heading-h1: var(--size-font-large);
+  --size-font-body: var(--size-font-medium-max);
+  --size-border-radius-button-basic: var(--size-border-radius-base);
+  --color-font-button-tight-solid-base: var(--color-base-gray-dark);
+  --color-font-button-tight-dashed-active: var(--color-base-gray-medium);
+  --color-font-button-tight-dashed-base: var(--color-base-gray-medium);
+  --color-font-button-outline-active: var(--color-base-black-dark);
+  --color-font-button-outline-base: var(--color-base-black-dark);
+  --color-font-button-secondary-active: var(--color-base-black-dark);
+  --color-font-button-secondary-base: var(--color-base-black-dark);
+  --color-font-button-primary-active: var(--color-base-black-dark);
+  --color-font-button-primary-base: var(--color-base-black-dark);
+  --color-font-error-base: var(--color-base-red-medium);
+  --color-font-editable-active: var(--color-base-gray-dark);
+  --color-font-light: var(--color-base-white);
+  --color-font-dark: var(--color-base-black-medium);
+  --color-brand-disabled-base: var(--color-base-gray-dark);
+  --color-brand-secondary-dark: var(--color-base-gray-medium-dark);
+  --color-brand-secondary-base: var(--color-base-gray-light);
+  --color-brand-primary-dark: var(--color-base-green-dark);
+  --color-brand-primary-base: var(--color-base-green-medium);
+  --color-brand-primary-light: var(--color-base-green-light);
+  --color-border-input-active: var(--color-base-gray-dark);
+  --color-border-input-base: var(--color-base-gray-medium-dark);
+  --color-border-button-disabled-base: var(--color-base-gray-medium);
+  --color-background-button-disabled-base: var(--color-base-gray-medium);
+  --color-background-button-outline-base: var(--color-base-white);
+  --color-background-dark: var(--color-base-black-dark);
+  --color-background-light: var(--color-base-white);
+  --size-font-heading-page: var(--size-font-heading-h1);
+  --color-font-button-tight-solid-active: var(--color-brand-primary-base);
+  --color-font-link-active: var(--color-brand-primary-base);
+  --color-font-link-base: var(--color-brand-primary-base);
+  --color-font-colorful-base: var(--color-brand-primary-base);
+  --color-border-textarea-active: var(--color-brand-primary-light);
+  --color-border-textarea-base: var(--color-brand-primary-base);
+  --color-border-button-outline-active: var(--color-brand-primary-base);
+  --color-border-button-outline-base: var(--color-brand-primary-base);
+  --color-border-button-secondary-active: var(--color-brand-secondary-base);
+  --color-border-button-secondary-base: var(--color-brand-secondary-base);
+  --color-border-button-primary-active: var(--color-brand-primary-base);
+  --color-border-button-primary-base: var(--color-brand-primary-base);
+  --color-background-button-outline-active: var(--color-brand-primary-base);
+  --color-background-button-secondary-active: var(--color-brand-secondary-dark);
+  --color-background-button-secondary-base: var(--color-brand-secondary-base);
+  --color-background-button-primary-active: var(--color-brand-primary-dark);
+  --color-background-button-primary-base: var(--color-brand-primary-base);
+  --color-background-sidebar: var(--color-background-dark);
+}

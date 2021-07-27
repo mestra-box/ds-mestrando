@@ -1,0 +1,51 @@
+{
+  "color": {
+    "font": {
+      "dark": { "value": "{color.base.black.medium.value}" },
+
+      "light": { "value": "{color.base.white.value}" },
+
+      "colorful": {
+        "base": { "value": "{color.brand.primary.base.value}" }
+      },
+
+      "link": {
+        "base": { "value": "{color.brand.primary.base.value}" },
+        "active": { "value": "{color.brand.primary.base.value}" }
+      },
+
+      "editable": {
+        "active": { "value": "{color.base.gray.dark.value}" }
+      },
+
+      "error": {
+        "base": { "value": "{color.base.red.medium.value}" }
+      },
+
+      "button": {
+        "primary": {
+          "base": { "value": "{color.base.black.dark.value}" },
+          "active": { "value": "{color.base.black.dark.value}" }
+        },
+        "secondary": {
+          "base": { "value": "{color.base.black.dark.value}" },
+          "active": { "value": "{color.base.black.dark.value}" }
+        },
+        "outline": {
+          "base": { "value": "{color.base.black.dark.value}" },
+          "active": { "value": "{color.base.black.dark.value}" }
+        },
+        "tight": {
+          "dashed": {
+            "base": { "value": "{color.base.gray.medium.value}" },
+            "active": { "value": "{color.base.gray.medium.value}" }
+          },
+          "solid": {
+            "base": { "value": "{color.base.gray.dark.value}" },
+            "active": { "value": "{color.brand.primary.base.value}" }
+          }
+        }
+      }
+    }
+  }
+}

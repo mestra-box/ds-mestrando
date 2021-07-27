@@ -1,0 +1,20 @@
+{
+  "size": {
+    "margin": {
+      "base": { "value": "34px" },
+      "large": { "value": "60px" },
+      "icon": { "value": "8px" },
+      "horizontal": {
+        "base": { "value": "16px" },
+        "small": { "value": "8px" },
+        "large": { "value": "24px" }
+      },
+      "vertical": {
+        "xsmall": { "value": "8px" },
+        "small": { "value": "12px" },
+        "base": { "value": "34px" },
+        "large": { "value": "60px" }
+      }
+    }
+  }
+}

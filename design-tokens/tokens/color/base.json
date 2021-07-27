@@ -1,0 +1,26 @@
+{
+  "color": {
+    "comment": "TESTE",
+    "base": {
+      "green": {
+        "light": { "value": "#bfdb33" },
+        "medium": { "value": "#B3CE25" },
+        "dark": { "value": "#9db620" }
+      },
+      "white": { "value": "#FFFFFF" },
+      "black": {
+        "medium": { "value": "#342F2F" },
+        "dark": { "value": "#342F2F" }
+      },
+      "gray": {
+        "light": { "value": "#E0E0E0" },
+        "medium": { "value": "#BFBFBF" },
+        "medium-dark": { "value": "#c7c7c7" },
+        "dark": { "value": "#666666" }
+      },
+      "red": {
+        "medium": { "value": "#EB5757" }
+      }
+    }
+  }
+}

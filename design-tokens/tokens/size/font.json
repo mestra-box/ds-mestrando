@@ -1,0 +1,60 @@
+{
+  "size": {
+    "font": {
+      "xsmall": {
+        "value": "0.75rem",
+        "comment": "the small size of the font"
+      },
+      "small": {
+        "value": "0.875rem",
+        "comment": "the small size of the font"
+      },
+      "medium": {
+        "min": { "value": "1.056rem" },
+        "scale": { "value": "1.5vw" },
+        "max": { "value": "1.125rem" },
+        "comment": "the medium size of the font"
+      },
+      "large": {
+        "value": "2.5rem",
+        "comment": "the large size of the font"
+      },
+
+      "leading": {
+        "tight": {
+          "value": "1.2"
+        },
+        "mid": {
+          "value": "1.7"
+        },
+        "loose": {
+          "value": "1.0"
+        }
+      },
+
+      "body": { "value": "{size.font.medium.max.value}" },
+
+      "heading": {
+        "h1": {
+          "value": "{size.font.large.value}"
+        },
+        "h2": {
+          "value": "1.875rem"
+        },
+        "h3": {
+          "value": "1.625rem"
+        },
+        "page": {
+          "value": "{size.font.heading.h1.value}"
+        },
+        "diary": {
+          "value": "{size.font.heading.h2.value}"
+        }
+      },
+
+      "button": {
+        "tight": { "value": "13px" }
+      }
+    }
+  }
+}

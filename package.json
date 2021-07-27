@@ -1,0 +1,26 @@
+{
+  "name": "@mestra/ds-mestrando",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    ".": "./index.js",
+    "./design-tokens": "./design-tokens/build/css/variables.scss"
+  },
+  "scripts": {
+    "build:tokens": "style-dictionary build -c ./design-tokens/config.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/mestrando/ds-mestrando#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/mestrando/ds-mestrando/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mestrando/ds-mestrando.git"
+  }
+}

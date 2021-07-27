@@ -1,0 +1,26 @@
+{
+  "source": ["design-tokens/tokens/**/*.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "design-tokens/build/",
+      "transforms": [
+        "attribute/cti",
+        "name/cti/kebab",
+        "time/seconds",
+        "content/icon",
+        "size/rem",
+        "color/css"
+      ],
+      "files": [
+        {
+          "format": "css/variables",
+          "destination": "css/variables.scss",
+          "options": {
+            "outputReferences": true
+          }
+        }
+      ]
+    }
+  }
+}
