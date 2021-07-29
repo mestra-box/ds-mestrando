@@ -1,7 +1,7 @@
 {
   "name": "@mestra-box/ds-mestrando",
   "version": "1.0.0-test4",
-  "description": "",
+  "description": "Design System of Mestrando",
   "exports": {
     ".": "./index.js",
     "./design-tokens": "./design-tokens/build/css/variables.scss"
@@ -10,8 +10,8 @@
     "build": "npm run build:tokens",
     "build:tokens": "style-dictionary build -c ./design-tokens/config.json"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["design system", "mestrando"],
+  "author": "David Basilio <dbasilioesp@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/mestra-box/ds-mestrando#readme",
   "devDependencies": {
