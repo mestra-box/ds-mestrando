@@ -1,6 +1,6 @@
 {
-  "name": "@mestra-box/ds-mestrando",
-  "version": "1.0.0-test4",
+  "name": "@mestra/ds-mestrando",
+  "version": "0.0.1",
   "description": "Design System of Mestrando",
   "exports": {
     ".": "./index.js",
@@ -23,8 +23,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mestra-box/ds-mestrando.git"
-  },
-  "publishConfig": {
-    "@mestra-box:registry": "https://npm.pkg.github.com"
   }
 }
